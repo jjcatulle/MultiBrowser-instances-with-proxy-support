@@ -4,6 +4,7 @@ be sure to have node js install
 download the folder or using the command line: git clone https://github.com/jjcatulle/MultiBrowser-instances-with-proxy-support.git
 
 cd MultiBrowser-instances-with-proxy-support
+
 npm install or yarn
 
 once install add proxy list in proxies.txt
