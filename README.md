@@ -10,3 +10,6 @@ npm install or yarn
 once install add proxy list in proxies.txt
 
 to run the script: node app.js
+
+
+for help dm me on discord: JC#6070
