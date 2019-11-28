@@ -1,0 +1,20 @@
+{
+  "name": "multi-browser-queue",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "author": "Jean Catulle",
+  "bin": "bin.js", 
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "pkg": "^4.4.0",
+    "puppeteer": "^2.0.0"
+  },
+  "pkg": {
+    "scripts": "*.js",
+    "assets": "www/**/*",
+    "targets": [
+      "node10"
+    ]
+  }
+}
